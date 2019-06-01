@@ -1,0 +1,14 @@
+{
+  "name": "eval-mapbox-gl-interpolate",
+  "version": "1.0.0",
+  "description": "\"Evaluate Mapbox GL interpolate expressions\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3-scale": "^3.0.0"
+  }
+}
