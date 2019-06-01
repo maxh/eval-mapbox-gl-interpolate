@@ -1,7 +1,7 @@
 {
   "name": "eval-mapbox-gl-interpolate",
   "version": "1.0.0",
-  "description": "\"Evaluate Mapbox GL interpolate expressions\"",
+  "description": "Evaluate Mapbox GL interpolate expressions",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

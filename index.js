@@ -39,4 +39,4 @@ const extractInterpolationFn = (interpolationType) => {
   }
 }
 
-exports.evaluate = evaluate;
+exports.evalMapboxGlInterpolate = evaluate;
